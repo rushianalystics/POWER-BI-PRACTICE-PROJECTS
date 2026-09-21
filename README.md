@@ -1,16 +1,9 @@
-# Power BI Practice Project
-
-# Sales Performance Dashboard
+# Power BI Practice Projects
 
 # Tools Used
 - Power BI
 - Power Query
 - DAX
+- DATA MODELING
+- MEASURES
 
-# Dashboard Analysis
-- Monthly Sales Trend
-- Sales by Category
-- Profit by Region
-- Top 10 Products by Sales
-- Year-wise Profit
-- Profit by Category
